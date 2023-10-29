@@ -1,4 +1,4 @@
-# sec-speed-trading
+# SEC Speed Trading
 System for Extracting, Classifying, and Evaluating Real-Time SEC Filings &amp; Prices
 
 Original Source - "Insider Quant Trading Is Here... Sorta" @ [The Quant's Playbook](https://quantgalore.substack.com/)
